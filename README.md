@@ -47,7 +47,7 @@
 
 - ![Python](https://img.shields.io/badge/Python-3.x-blue) — основной язык программирования.
 - ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-yellow) — фреймворк для работы с LLM.
-- ![PEFT](https://img.shields.io/badge/PEFT-green) — библиотека для эффективной дообучаемости больших моделей.
+- ![PEFT](https://img.shields.io/badge/PEFT-green) — библиотека для эффективного дообучения LLM.
 
 ---
 
